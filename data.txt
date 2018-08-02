@@ -1,0 +1,3 @@
+Name: Ady
+Age: 22
+Favorite Color: Red
